@@ -6,4 +6,6 @@ AutosRUs created a new protytpe, the MechaCar, that is suffering from production
 * analyze if the various manufacturing lots have a statistical "significance" as opposed to the entire mean population;
 
 ### Linear Regression on MPG
-![Linear Regression regarding MPG](Results_/MechaCar Regression.png)
+![Linear Regression regarding MPG](https://github.com/jeremysz0419/MechaCar_Statistical_Analysis/blob/main/Results_/MechaCar%20Regression.png)
+![Regression Summary on MPG](https://github.com/jeremysz0419/MechaCar_Statistical_Analysis/blob/main/Results_/MechaCar%20Summary.png)
+
